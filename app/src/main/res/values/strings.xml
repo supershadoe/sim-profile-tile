@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SIM Profile Tile</string>
+    <string name="qs_tile_name">SIM Profile</string>
+</resources>
